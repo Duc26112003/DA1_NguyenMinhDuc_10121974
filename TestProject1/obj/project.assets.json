@@ -1525,11 +1525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\duc56\\source\\repos\\GUI\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\duc56\\source\\repos\\DA1_NguyenMinhDuc\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\duc56\\source\\repos\\DA1_NguyenMinhDuc\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\duc56\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\duc56\\source\\repos\\GUI\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\duc56\\source\\repos\\DA1_NguyenMinhDuc\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duc56\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1546,11 +1546,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\duc56\\source\\repos\\GUI\\DAO\\DAO.csproj": {
-              "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\DAO\\DAO.csproj"
+            "C:\\Users\\duc56\\source\\repos\\DA1_NguyenMinhDuc\\DAO\\DAO.csproj": {
+              "projectPath": "C:\\Users\\duc56\\source\\repos\\DA1_NguyenMinhDuc\\DAO\\DAO.csproj"
             },
-            "C:\\Users\\duc56\\source\\repos\\GUI\\GUI\\GUI.csproj": {
-              "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\GUI\\GUI.csproj"
+            "C:\\Users\\duc56\\source\\repos\\DA1_NguyenMinhDuc\\GUI\\GUI.csproj": {
+              "projectPath": "C:\\Users\\duc56\\source\\repos\\DA1_NguyenMinhDuc\\GUI\\GUI.csproj"
             }
           }
         }
