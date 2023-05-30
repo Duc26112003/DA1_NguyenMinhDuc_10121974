@@ -1,0 +1,9 @@
+C:\Users\duc56\source\repos\GUI\DAO\bin\Debug\DAO.dll
+C:\Users\duc56\source\repos\GUI\DAO\bin\Debug\DAO.pdb
+C:\Users\duc56\source\repos\GUI\DAO\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\duc56\source\repos\GUI\DAO\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duc56\source\repos\GUI\DAO\obj\Debug\DAO.dll
+C:\Users\duc56\source\repos\GUI\DAO\obj\Debug\DAO.pdb
+C:\Users\duc56\source\repos\GUI\DAO\bin\Debug\DTO.dll
+C:\Users\duc56\source\repos\GUI\DAO\bin\Debug\DTO.pdb
+C:\Users\duc56\source\repos\GUI\DAO\obj\Debug\DAL.csproj.CopyComplete

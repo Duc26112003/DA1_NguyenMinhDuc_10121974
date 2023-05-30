@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\duc56\\source\\repos\\GUI\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\duc56\\source\\repos\\GUI\\BUS\\BUS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duc56\\source\\repos\\GUI\\BUS\\BUS.csproj",
+        "projectName": "BUS",
+        "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\BUS\\BUS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\duc56\\source\\repos\\GUI\\DAO\\DAO.csproj": {
+                "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\DAO\\DAO.csproj"
+              },
+              "C:\\Users\\duc56\\source\\repos\\GUI\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\duc56\\source\\repos\\GUI\\DAO\\DAO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duc56\\source\\repos\\GUI\\DAO\\DAO.csproj",
+        "projectName": "DAO",
+        "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\DAO\\DAO.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\duc56\\source\\repos\\GUI\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\duc56\\source\\repos\\GUI\\DTO\\DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duc56\\source\\repos\\GUI\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\DTO\\DTO.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\duc56\\source\\repos\\GUI\\GUI\\GUI.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duc56\\source\\repos\\GUI\\GUI\\GUI.csproj",
+        "projectName": "GUI",
+        "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\GUI\\GUI.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\duc56\\source\\repos\\GUI\\BUS\\BUS.csproj": {
+                "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\BUS\\BUS.csproj"
+              },
+              "C:\\Users\\duc56\\source\\repos\\GUI\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\duc56\\source\\repos\\GUI\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\duc56\\source\\repos\\GUI\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\duc56\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duc56\\source\\repos\\GUI\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\duc56\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\duc56\\source\\repos\\GUI\\DAO\\DAO.csproj": {
+                "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\DAO\\DAO.csproj"
+              },
+              "C:\\Users\\duc56\\source\\repos\\GUI\\GUI\\GUI.csproj": {
+                "projectPath": "C:\\Users\\duc56\\source\\repos\\GUI\\GUI\\GUI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
